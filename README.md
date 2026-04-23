@@ -5,7 +5,7 @@
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/🔴_LIVE_DEMO-Visit_Now-blue?style=for-the-badge)](https://om-liatai-digi-deck.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/🔴_LIVE_DEMO-Visit_Now-blue?style=for-the-badge)](https://american-dream-mall-om.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Source_Code-black?style=for-the-badge&logo=github)](https://github.com/Om2407/Liat.ai-digi-deck)
 [![Lighthouse](https://img.shields.io/badge/Lighthouse-94%2F100-green?style=for-the-badge&logo=lighthouse)]()
 
